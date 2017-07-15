@@ -28,6 +28,7 @@ public class onlyones {
 					{
 						a1=a[i];
 						b1=a[j];
+						break;
 					}
 				}
 				
